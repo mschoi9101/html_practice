@@ -1,0 +1,14 @@
+
+@font-face {
+    font-family: "IBM Plex";
+    src: url("./IBMPlexSansKR-Medium.ttf");
+}
+
+h1{
+    font-weight: 900;
+    font-size: 900;
+}
+
+p{
+    font-family: "IBM Plex";
+}
